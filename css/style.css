@@ -17,6 +17,12 @@ span.list-group-item {
     color: #fff;
 }
 
+.currency {
+    margin-top: 10px;
+    padding: 4px;
+    border-radius: 5px;
+}
+
 .caption {
     height: 130px;
     overflow: hidden;
